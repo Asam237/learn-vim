@@ -4,7 +4,7 @@
 
 Macros are a powerful way to record and playback a sequence of commands.
 
-Let's say we have this [**file**](https://github.com/Asam237/learn-vim/blob/main/src/macro.txt)
+Let's say we have this [**file**](https://github.com/Asam237/learn-vim/blob/main/src/macros.sql)
 
 ## Authors
 
