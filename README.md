@@ -1,6 +1,10 @@
 # learn-vim
 
-[**Macro**](https://github.com/Asam237/learn-vim/blob/main/src/macro.txt)
+## Macros
+
+Macros are a powerful way to record and playback a sequence of commands.
+
+Let's say we have this [**file**](https://github.com/Asam237/learn-vim/blob/main/src/macro.txt)
 
 ## Authors
 
